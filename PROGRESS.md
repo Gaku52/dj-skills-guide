@@ -70,7 +70,134 @@
 
 ---
 
-### フェーズ4: 楽曲制作基礎
+### フェーズ4: DJ上級テクニック
+
+#### dj/04-advanced-techniques/ （9ファイル）
+
+1. **README.md** - セクション概要
+2. **transitions.md** - トランジション技法（Echo Out、Spin Back）
+3. **harmonic-mixing.md** - ハーモニックミキシング
+4. **effects-usage.md** - エフェクト活用（Echo、Reverb、Filter）
+5. **loops-hotcues.md** - ループとHot Cueのクリエイティブな使い方
+6. **scratching.md** - スクラッチ（Baby Scratch → Crab）
+7. **juggling.md** - ジャグリング（2枚使い）
+8. **mashups.md** - マッシュアップ
+9. **live-remixing.md** - ライブリミックス
+
+---
+
+### フェーズ5: 選曲とセットリスト
+
+#### dj/05-track-selection/ （8ファイル）
+
+1. **README.md** - セクション概要
+2. **genre-knowledge.md** - ジャンル知識（House、Techno、Hip Hop等）
+3. **setlist-building.md** - セットリスト構成
+4. **energy-curve.md** - エネルギーカーブ、フロアの盛り上げ方
+5. **floor-reading.md** - フロアリーディング（観客の反応）
+6. **track-analysis.md** - 曲分析（構造、キー確認）
+7. **music-library.md** - 音楽ライブラリ管理（Rekordbox整理術）
+8. **digging-records.md** - レコードディギング（良い曲の探し方）
+
+---
+
+### フェーズ6: パフォーマンス実践
+
+#### dj/06-performance/ （11ファイル）
+
+1. **README.md** - セクション概要
+2. **stage-presence.md** - ステージプレゼンス
+3. **crowd-interaction.md** - 観客との交流（MC、アイコンタクト）
+4. **setup-soundcheck.md** - セットアップとサウンドチェック
+5. **performance-prep.md** - パフォーマンス準備
+6. **recording-sets.md** - セットのレコーディング
+7. **live-streaming.md** - ライブストリーミング
+8. **club-protocol.md** - クラブでのプロトコル、マナー（新規追加）
+9. **back-to-back.md** - Back to Back、他DJとの共演（新規追加）
+10. **open-deck-audition.md** - オープンデッキ、トライアウト（新規追加）
+11. **troubleshooting-live.md** - 本番中のトラブル対応（新規追加）
+
+---
+
+### フェーズ7: ジャンル別ガイド
+
+#### dj/07-genres/ （8ファイル）
+
+1. **README.md** - セクション概要
+2. **house.md** - House（Deep House、Tech House、Progressive）
+3. **techno.md** - Techno（Minimal、Industrial、Acid）
+4. **hip-hop.md** - Hip Hop（ターンテーブリズム、スクラッチ）
+5. **dubstep.md** - Dubstep（ハーフタイム、ドロップ）
+6. **drum-and-bass.md** - Drum & Bass（高速BPM、ブレイクビート）
+7. **trance.md** - Trance（ビルドアップ、エモーション）
+8. **open-format.md** - Open Format（マルチジャンルミックス）
+
+---
+
+### フェーズ8: 練習とスキルアップ
+
+#### dj/08-practice/ （9ファイル）
+
+1. **README.md** - セクション概要
+2. **practice-routine.md** - 練習ルーティン
+3. **self-analysis.md** - 自己分析
+4. **recording-review.md** - レコーディングとレビュー
+5. **troubleshooting.md** - トラブルシューティング
+6. **hearing-protection.md** - 聴力保護、難聴予防（新規追加）
+7. **physical-stamina.md** - 長時間プレイの体力管理（新規追加）
+8. **mental-health.md** - メンタルヘルス、緊張対処（新規追加）
+9. **continuous-learning.md** - 継続的学習、スランプ脱出（新規追加）
+
+---
+
+### フェーズ9: DJキャリア構築
+
+#### dj/09-career/ （11ファイル）
+
+1. **README.md** - セクション概要
+2. **branding.md** - ブランディング（DJ名、ロゴ、コンセプト）
+3. **promotion.md** - プロモーション
+4. **social-media.md** - ソーシャルメディア活用
+5. **booking-gigs.md** - ブッキングとギグ獲得
+6. **networking.md** - ネットワーキング
+7. **pricing-contracts.md** - 料金設定と契約（新規追加）
+8. **copyright-licensing.md** - 著作権とライセンス（新規追加）
+9. **business-admin.md** - 確定申告、保険（新規追加）
+10. **residency-touring.md** - レジデンシー、ツアー（新規追加）
+11. **work-life-balance.md** - ワークライフバランス（新規追加）
+
+---
+
+### フェーズ10: コンテンツ作成【新規セクション】
+
+#### dj/10-content-creation/ （8ファイル）
+
+1. **README.md** - セクション概要
+2. **recording-workflow.md** - Rekordboxでの録音ワークフロー
+3. **mixcloud-soundcloud.md** - Mixcloud、SoundCloud投稿
+4. **podcast-creation.md** - ポッドキャスト作成
+5. **live-streaming-obs.md** - OBSでのライブストリーミング
+6. **video-content.md** - 動画コンテンツ作成
+7. **audio-optimization.md** - 音質の最適化
+8. **content-strategy.md** - コンテンツ戦略、投稿計画
+
+---
+
+### フェーズ11: コミュニティとメンタリング【新規セクション】
+
+#### dj/11-community/ （7ファイル）
+
+1. **README.md** - セクション概要
+2. **dj-community.md** - DJコミュニティ参加
+3. **mentorship.md** - メンターの見つけ方
+4. **collaboration.md** - コラボレーション
+5. **online-communities.md** - オンラインコミュニティ活用
+6. **giving-back.md** - 後進の指導
+7. **scene-building.md** - ローカルシーン構築
+
+---
+
+### フェーズ12: 楽曲制作基礎
 
 #### production/01-ableton-basics/ （8ファイル）
 
@@ -245,14 +372,54 @@ docs/dj/04-advanced-techniques/README.md
 - 総行数: 約11,087行
 - 平均: 約308行/ファイル
 
-### 推定残り
-- ファイル数: 約97ファイル
-- 推定総行数: 約29,900行
-- 推定作業日数: 19-24日（1日4-5ファイル）
+### 推定残り（更新後）
+- DJセクション: 71ファイル（+26ファイル追加）
+- Productionセクション: 約70ファイル
+- Integration/Resources: 約20ファイル
+- **合計残り**: 約161ファイル
+
+### 全体
+- **総ファイル数**: 約197ファイル（36完了 + 161残り）
+- **推定総行数**: 約60,700行
+- **推定作業日数**: 32-40日（1日4-5ファイル）
+- **現在の進捗率**: 18.3%（36/197）
+
+### 追加項目（プロDJ必須スキル）
+**新規追加ファイル: +26**
+- クラブプロトコル、B2B、オープンデッキ（+4）
+- 料金設定、契約、著作権、ビジネス管理（+5）
+- 聴力保護、体力管理、メンタルヘルス（+4）
+- コンテンツ作成セクション全体（+8・新規セクション）
+- コミュニティ・メンタリングセクション全体（+7・新規セクション）
+
+→ **これでプロ級DJに必要な知識を完全網羅**
 
 ---
 
 ## 🔄 更新履歴
+
+### 2025-12-01 (構成見直し)
+- **プロ級DJスキル網羅のための大幅見直し**
+- 不足項目の洗い出し完了
+- 新規ファイル26個を計画に追加
+- 新規セクション2つ追加:
+  - dj/10-content-creation/ (8ファイル)
+  - dj/11-community/ (7ファイル)
+- 既存セクション拡充:
+  - dj/06-performance/: 6 → 11ファイル (+5)
+  - dj/08-practice/: 4 → 9ファイル (+5)
+  - dj/09-career/: 5 → 11ファイル (+6)
+- **追加内容**:
+  - クラブ実践（プロトコル、B2B、オープンデッキ）
+  - ビジネス（料金、契約、著作権、確定申告）
+  - 健康管理（聴力保護、体力、メンタルヘルス）
+  - コンテンツ作成（録音、配信、ポッドキャスト）
+  - コミュニティ（メンター、コラボ、シーン構築）
+- **全体統計更新**:
+  - 総ファイル数: 133 → 197 (+64)
+  - 進捗率: 27% → 18.3%（母数増加のため）
+  - 推定作業日数: 20日 → 32-40日
+- STRUCTURE_REVIEW.md 作成（見直し記録）
 
 ### 2025-12-01 (続き・セッション4)
 - dj/03-basic-techniques/ 完了（全8ファイル）
