@@ -2,7 +2,7 @@
 
 このファイルは、DJ Skills Guide の制作進捗を管理し、次に何を作成すべきかを明確にするためのものです。
 
-**最終更新**: 2025-11-30
+**最終更新**: 2025-12-04
 
 ---
 
@@ -101,21 +101,21 @@
 
 ---
 
-### フェーズ6: パフォーマンス実践
+### ✅ フェーズ6: パフォーマンス実践 【完了】
 
 #### dj/06-performance/ （11ファイル）
 
-1. **README.md** - セクション概要
-2. **stage-presence.md** - ステージプレゼンス
-3. **crowd-interaction.md** - 観客との交流（MC、アイコンタクト）
-4. **setup-soundcheck.md** - セットアップとサウンドチェック
-5. **performance-prep.md** - パフォーマンス準備
-6. **recording-sets.md** - セットのレコーディング
-7. **live-streaming.md** - ライブストリーミング
-8. **club-protocol.md** - クラブでのプロトコル、マナー（新規追加）
-9. **back-to-back.md** - Back to Back、他DJとの共演（新規追加）
-10. **open-deck-audition.md** - オープンデッキ、トライアウト（新規追加）
-11. **troubleshooting-live.md** - 本番中のトラブル対応（新規追加）
+1. ✅ **README.md** - セクション概要（480行）
+2. ✅ **stage-presence.md** - ステージプレゼンス（434行）
+3. ✅ **crowd-interaction.md** - 観客との交流、MC、アイコンタクト（702行）
+4. ✅ **setup-soundcheck.md** - セットアップとサウンドチェック（663行）
+5. ✅ **performance-prep.md** - パフォーマンス準備（617行）
+6. ✅ **recording-sets.md** - セットのレコーディング（682行）
+7. ✅ **live-streaming.md** - ライブストリーミング、OBS、Twitch、YouTube（686行）
+8. ✅ **club-protocol.md** - クラブプロトコル、マナー（704行）
+9. ✅ **back-to-back.md** - Back to Back、他DJとの共演（618行）
+10. ✅ **open-deck-audition.md** - オープンデッキ、トライアウト（620行）
+11. ✅ **troubleshooting-live.md** - 本番中のトラブル対応（747行）
 
 ---
 
@@ -316,34 +316,30 @@
 
 **次に作成するファイル:**
 ```
-docs/dj/06-performance/README.md
+docs/dj/07-genres/README.md
 ```
 
 **内容:**
-- パフォーマンス実践セクション概要
-- ステージプレゼンス
-- 本番準備とサウンドチェック
-- クラブプロトコル
+- ジャンル別ガイドセクション概要
+- House、Techno、Hip Hop等の特徴
+- ジャンルごとのDJ技法の違い
 - 約250-300行を目標
 
 **その後:**
 ```
-1. docs/dj/06-performance/stage-presence.md
-2. docs/dj/06-performance/crowd-interaction.md
-3. docs/dj/06-performance/setup-soundcheck.md
-4. docs/dj/06-performance/performance-prep.md
-5. docs/dj/06-performance/recording-sets.md
-6. docs/dj/06-performance/live-streaming.md
-7. docs/dj/06-performance/club-protocol.md
-8. docs/dj/06-performance/back-to-back.md
-9. docs/dj/06-performance/open-deck-audition.md
-10. docs/dj/06-performance/troubleshooting-live.md
-... (全11ファイル予定)
+1. docs/dj/07-genres/house.md
+2. docs/dj/07-genres/techno.md
+3. docs/dj/07-genres/hip-hop.md
+4. docs/dj/07-genres/dubstep.md
+5. docs/dj/07-genres/drum-and-bass.md
+6. docs/dj/07-genres/trance.md
+7. docs/dj/07-genres/open-format.md
+... (全8ファイル予定)
 ```
 
 **参考にする完成ファイル:**
-- `docs/dj/05-track-selection/README.md` （セクション概要）
-- `docs/dj/05-track-selection/floor-reading.md` （観客対応）
+- `docs/dj/05-track-selection/genre-knowledge.md` （ジャンル知識）
+- `docs/dj/06-performance/README.md` （セクション概要）
 
 ### 📌 重要な注意点
 
@@ -373,21 +369,21 @@ docs/dj/06-performance/README.md
 ## 📊 統計
 
 ### 完了済み
-- ファイル数: 53
-- 総行数: 約19,878行
-- 平均: 約375行/ファイル
+- ファイル数: 64
+- 総行数: 約26,831行
+- 平均: 約419行/ファイル
 
 ### 推定残り（更新後）
-- DJセクション: 54ファイル（71 - 17完了）
+- DJセクション: 43ファイル（71 - 28完了）
 - Productionセクション: 約70ファイル
 - Integration/Resources: 約20ファイル
-- **合計残り**: 約144ファイル
+- **合計残り**: 約133ファイル
 
 ### 全体
-- **総ファイル数**: 約197ファイル（53完了 + 144残り）
-- **推定総行数**: 約74,000行
-- **推定作業日数**: 25-32日（1日4-5ファイル）
-- **現在の進捗率**: 26.9%（53/197）
+- **総ファイル数**: 約197ファイル（64完了 + 133残り）
+- **推定総行数**: 約82,500行
+- **推定作業日数**: 22-28日（1日4-5ファイル）
+- **現在の進捗率**: 32.5%（64/197）
 
 ### 追加項目（プロDJ必須スキル）
 **新規追加ファイル: +26**
@@ -403,6 +399,24 @@ docs/dj/06-performance/README.md
 
 ## 🔄 更新履歴
 
+### 2025-12-04 (セッション6 - 継続)
+- dj/06-performance/ 完了（全11ファイル）
+  - README.md（パフォーマンス実践概要、480行）
+  - stage-presence.md（ステージプレゼンス、姿勢、視線、緊張克服、434行）
+  - crowd-interaction.md（観客との交流、MC、アイコンタクト、702行）
+  - setup-soundcheck.md（セットアップ、サウンドチェック、DDJ-FLX4、663行）
+  - performance-prep.md（本番準備、持ち物、メンタル、食事睡眠、617行）
+  - recording-sets.md（Rekordbox録音、Mixcloud/SoundCloudアップロード、682行）
+  - live-streaming.md（OBS、Twitch、YouTube配信、686行）
+  - club-protocol.md（クラブマナー、プロトコル、時間厳守、704行）
+  - back-to-back.md（B2B、他DJとの共演、618行）
+  - open-deck-audition.md（オープンデッキ、トライアウト、620行）
+  - troubleshooting-live.md（本番トラブル対応、冷静さ、747行）
+- **特記**: プロの現場力を完全網羅、全てDDJ-FLX4/Rekordbox対応
+- **セッション6（継続）**: 11ファイル、約6,953行
+- **累計**: 64ファイル、約26,831行
+- **進捗率**: 32.5%（64/197）
+
 ### 2025-12-04 (セッション6)
 - dj/05-track-selection/ 完了（全8ファイル）
   - README.md（選曲とセットリスト概要、選曲の重要性、280行）
@@ -415,8 +429,6 @@ docs/dj/06-performance/README.md
   - digging-records.md（Beatport/Traxsource/SoundCloud、週次ディギング、480行）
 - **特記**: 選曲はDJで最も重要なスキル、全てRekordbox/DDJ-FLX4対応
 - **セッション6**: 8ファイル、約3,986行
-- **累計**: 53ファイル、約19,878行
-- **進捗率**: 26.9%（53/197）
 
 ### 2025-12-03 (セッション5)
 - dj/04-advanced-techniques/ 完了（全9ファイル）

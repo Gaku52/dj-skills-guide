@@ -9,10 +9,10 @@
 ## 📊 現在の進捗（一目でわかる）
 
 ```
-進捗率: 26.9% (53/197ファイル)
-完了行数: 約19,878行
-残りファイル: 144ファイル
-推定残り日数: 25-32日
+進捗率: 32.5% (64/197ファイル)
+完了行数: 約26,831行
+残りファイル: 133ファイル
+推定残り日数: 22-28日
 ```
 
 ---
@@ -34,10 +34,13 @@
 ### フェーズ5: dj/04-advanced-techniques/ (9ファイル)
 - DJ上級テクニック（トランジション、ハーモニックミキシング、スクラッチ等）
 
-### フェーズ6: dj/05-track-selection/ (8ファイル) ✨最新
+### フェーズ6: dj/05-track-selection/ (8ファイル)
 - 選曲とセットリスト（ジャンル知識、エネルギーカーブ、フロアリーディング等）
 
-**合計: 53ファイル完了**
+### フェーズ7: dj/06-performance/ (11ファイル) ✨最新
+- パフォーマンス実践（ステージプレゼンス、観客との交流、セットアップ、本番準備、レコーディング、ライブ配信、クラブプロトコル、B2B、オープンデッキ、トラブル対応）
+
+**合計: 64ファイル完了**
 
 ---
 
@@ -46,29 +49,26 @@
 ### 次に作成するファイル
 
 ```
-docs/dj/06-performance/README.md
+docs/dj/07-genres/README.md
 ```
 
 ### このセクションについて
 
-**フェーズ7: パフォーマンス実践 (11ファイル)**
+**フェーズ8: ジャンル別ガイド (8ファイル)**
 
 1. README.md - セクション概要
-2. stage-presence.md - ステージプレゼンス
-3. crowd-interaction.md - 観客との交流
-4. setup-soundcheck.md - セットアップとサウンドチェック
-5. performance-prep.md - パフォーマンス準備
-6. recording-sets.md - セットのレコーディング
-7. live-streaming.md - ライブストリーミング
-8. club-protocol.md - クラブでのプロトコル、マナー
-9. back-to-back.md - Back to Back、他DJとの共演
-10. open-deck-audition.md - オープンデッキ、トライアウト
-11. troubleshooting-live.md - 本番中のトラブル対応
+2. house.md - House（Deep House、Tech House、Progressive）
+3. techno.md - Techno（Minimal、Industrial、Acid）
+4. hip-hop.md - Hip Hop（ターンテーブリズム、スクラッチ）
+5. dubstep.md - Dubstep（ハーフタイム、ドロップ）
+6. drum-and-bass.md - Drum & Bass（高速BPM、ブレイクビート）
+7. trance.md - Trance（ビルドアップ、エモーション）
+8. open-format.md - Open Format（マルチジャンルミックス）
 
 ### このセクションの重要性
 
-技術と選曲を学んだ後は、実際のパフォーマンス。
-クラブでの振る舞い、トラブル対応など**プロの現場力**を学びます。
+各ジャンルの特徴、歴史、代表的アーティスト、DJ技法の違いを詳細に学びます。
+ジャンル別の**深い理解**がプロDJの条件です。
 
 ---
 
@@ -193,8 +193,8 @@ dj-skills-guide/
 │       ├── 03-basic-techniques/ (8) ✅
 │       ├── 04-advanced-techniques/ (9) ✅
 │       ├── 05-track-selection/ (8) ✅
-│       ├── 06-performance/ (11) ⏳ 次はここ
-│       ├── 07-genres/ (8)
+│       ├── 06-performance/ (11) ✅
+│       ├── 07-genres/ (8) ⏳ 次はここ
 │       ├── 08-practice/ (9)
 │       ├── 09-career/ (11)
 │       ├── 10-content-creation/ (8)
