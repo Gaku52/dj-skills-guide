@@ -1,6 +1,6 @@
 # セッション再開ガイド
 
-**最終更新**: 2025-12-03
+**最終更新**: 2025-12-04
 
 このファイルは、Claude Codeセッションを再開する際に素早く状況を把握するためのクイックリファレンスです。
 
@@ -9,10 +9,10 @@
 ## 📊 現在の進捗（一目でわかる）
 
 ```
-進捗率: 22.8% (45/197ファイル)
-完了行数: 約15,892行
-残りファイル: 152ファイル
-推定残り日数: 28-35日
+進捗率: 26.9% (53/197ファイル)
+完了行数: 約19,878行
+残りファイル: 144ファイル
+推定残り日数: 25-32日
 ```
 
 ---
@@ -31,10 +31,13 @@
 ### フェーズ4: dj/03-basic-techniques/ (8ファイル)
 - DJ基本テクニック（ビートマッチング、EQ、ゲインステージング等）
 
-### フェーズ5: dj/04-advanced-techniques/ (9ファイル) ✨最新
+### フェーズ5: dj/04-advanced-techniques/ (9ファイル)
 - DJ上級テクニック（トランジション、ハーモニックミキシング、スクラッチ等）
 
-**合計: 45ファイル完了**
+### フェーズ6: dj/05-track-selection/ (8ファイル) ✨最新
+- 選曲とセットリスト（ジャンル知識、エネルギーカーブ、フロアリーディング等）
+
+**合計: 53ファイル完了**
 
 ---
 
@@ -43,26 +46,29 @@
 ### 次に作成するファイル
 
 ```
-docs/dj/05-track-selection/README.md
+docs/dj/06-performance/README.md
 ```
 
 ### このセクションについて
 
-**フェーズ6: 選曲とセットリスト (8ファイル)**
+**フェーズ7: パフォーマンス実践 (11ファイル)**
 
 1. README.md - セクション概要
-2. genre-knowledge.md - ジャンル知識
-3. setlist-building.md - セットリスト構築
-4. energy-curve.md - エネルギーカーブ
-5. floor-reading.md - フロアリーディング
-6. track-analysis.md - 曲分析
-7. music-library.md - 音楽ライブラリ管理
-8. digging-records.md - レコードディギング
+2. stage-presence.md - ステージプレゼンス
+3. crowd-interaction.md - 観客との交流
+4. setup-soundcheck.md - セットアップとサウンドチェック
+5. performance-prep.md - パフォーマンス準備
+6. recording-sets.md - セットのレコーディング
+7. live-streaming.md - ライブストリーミング
+8. club-protocol.md - クラブでのプロトコル、マナー
+9. back-to-back.md - Back to Back、他DJとの共演
+10. open-deck-audition.md - オープンデッキ、トライアウト
+11. troubleshooting-live.md - 本番中のトラブル対応
 
 ### このセクションの重要性
 
-技術は完璧でも、選曲が悪ければDJは成功しない。
-このセクションでは**プロの選曲センス**を学びます。
+技術と選曲を学んだ後は、実際のパフォーマンス。
+クラブでの振る舞い、トラブル対応など**プロの現場力**を学びます。
 
 ---
 
@@ -186,8 +192,8 @@ dj-skills-guide/
 │       ├── 02-equipment/ (9) ✅
 │       ├── 03-basic-techniques/ (8) ✅
 │       ├── 04-advanced-techniques/ (9) ✅
-│       ├── 05-track-selection/ (8) ⏳ 次はここ
-│       ├── 06-performance/ (11)
+│       ├── 05-track-selection/ (8) ✅
+│       ├── 06-performance/ (11) ⏳ 次はここ
 │       ├── 07-genres/ (8)
 │       ├── 08-practice/ (9)
 │       ├── 09-career/ (11)

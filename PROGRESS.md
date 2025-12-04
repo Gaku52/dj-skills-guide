@@ -86,18 +86,18 @@
 
 ---
 
-### フェーズ5: 選曲とセットリスト
+### ✅ フェーズ5: 選曲とセットリスト 【完了】
 
 #### dj/05-track-selection/ （8ファイル）
 
-1. **README.md** - セクション概要
-2. **genre-knowledge.md** - ジャンル知識（House、Techno、Hip Hop等）
-3. **setlist-building.md** - セットリスト構成
-4. **energy-curve.md** - エネルギーカーブ、フロアの盛り上げ方
-5. **floor-reading.md** - フロアリーディング（観客の反応）
-6. **track-analysis.md** - 曲分析（構造、キー確認）
-7. **music-library.md** - 音楽ライブラリ管理（Rekordbox整理術）
-8. **digging-records.md** - レコードディギング（良い曲の探し方）
+1. ✅ **README.md** - セクション概要、選曲の重要性、3つの柱
+2. ✅ **genre-knowledge.md** - House/Techno/Hip Hop完全ガイド、代表的アーティスト100名
+3. ✅ **setlist-building.md** - 60分セット構築、BPM/キーの流れ、実践例
+4. ✅ **energy-curve.md** - エネルギーレベル10段階、ピークの作り方、時間帯別管理
+5. ✅ **floor-reading.md** - 観客の反応読み取り、リアルタイム調整、失敗からの回復
+6. ✅ **track-analysis.md** - 曲構造理解、Hot Cue設定戦略、50曲分析プロジェクト
+7. ✅ **music-library.md** - Rekordbox整理術、プレイリスト戦略、バックアップ方法
+8. ✅ **digging-records.md** - Beatport/Traxsource/SoundCloud活用、週次ディギングルーティン
 
 ---
 
@@ -316,31 +316,34 @@
 
 **次に作成するファイル:**
 ```
-docs/dj/05-track-selection/README.md
+docs/dj/06-performance/README.md
 ```
 
 **内容:**
-- 選曲とセットリストセクション概要
-- ジャンル知識の重要性
-- エネルギーカーブの概念
-- フロアリーディング
+- パフォーマンス実践セクション概要
+- ステージプレゼンス
+- 本番準備とサウンドチェック
+- クラブプロトコル
 - 約250-300行を目標
 
 **その後:**
 ```
-1. docs/dj/05-track-selection/genre-knowledge.md
-2. docs/dj/05-track-selection/setlist-building.md
-3. docs/dj/05-track-selection/energy-curve.md
-4. docs/dj/05-track-selection/floor-reading.md
-5. docs/dj/05-track-selection/track-analysis.md
-6. docs/dj/05-track-selection/music-library.md
-7. docs/dj/05-track-selection/digging-records.md
-... (全8ファイル予定)
+1. docs/dj/06-performance/stage-presence.md
+2. docs/dj/06-performance/crowd-interaction.md
+3. docs/dj/06-performance/setup-soundcheck.md
+4. docs/dj/06-performance/performance-prep.md
+5. docs/dj/06-performance/recording-sets.md
+6. docs/dj/06-performance/live-streaming.md
+7. docs/dj/06-performance/club-protocol.md
+8. docs/dj/06-performance/back-to-back.md
+9. docs/dj/06-performance/open-deck-audition.md
+10. docs/dj/06-performance/troubleshooting-live.md
+... (全11ファイル予定)
 ```
 
 **参考にする完成ファイル:**
-- `docs/dj/04-advanced-techniques/README.md` （セクション概要）
-- `docs/dj/04-advanced-techniques/harmonic-mixing.md` （音楽理論的アプローチ）
+- `docs/dj/05-track-selection/README.md` （セクション概要）
+- `docs/dj/05-track-selection/floor-reading.md` （観客対応）
 
 ### 📌 重要な注意点
 
@@ -370,21 +373,21 @@ docs/dj/05-track-selection/README.md
 ## 📊 統計
 
 ### 完了済み
-- ファイル数: 45
-- 総行数: 約15,892行
-- 平均: 約353行/ファイル
+- ファイル数: 53
+- 総行数: 約19,878行
+- 平均: 約375行/ファイル
 
 ### 推定残り（更新後）
-- DJセクション: 62ファイル（71 - 9完了）
+- DJセクション: 54ファイル（71 - 17完了）
 - Productionセクション: 約70ファイル
 - Integration/Resources: 約20ファイル
-- **合計残り**: 約152ファイル
+- **合計残り**: 約144ファイル
 
 ### 全体
-- **総ファイル数**: 約197ファイル（45完了 + 152残り）
-- **推定総行数**: 約69,500行
-- **推定作業日数**: 28-35日（1日4-5ファイル）
-- **現在の進捗率**: 22.8%（45/197）
+- **総ファイル数**: 約197ファイル（53完了 + 144残り）
+- **推定総行数**: 約74,000行
+- **推定作業日数**: 25-32日（1日4-5ファイル）
+- **現在の進捗率**: 26.9%（53/197）
 
 ### 追加項目（プロDJ必須スキル）
 **新規追加ファイル: +26**
@@ -399,6 +402,21 @@ docs/dj/05-track-selection/README.md
 ---
 
 ## 🔄 更新履歴
+
+### 2025-12-04 (セッション6)
+- dj/05-track-selection/ 完了（全8ファイル）
+  - README.md（選曲とセットリスト概要、選曲の重要性、280行）
+  - genre-knowledge.md（House/Techno/Hip Hop完全ガイド、代表的アーティスト、480行）
+  - setlist-building.md（60分セット構築、BPM/キーの流れ、実践例、500行）
+  - energy-curve.md（エネルギーレベル10段階、ピークの作り方、480行）
+  - floor-reading.md（観客の反応読み取り、リアルタイム調整、480行）
+  - track-analysis.md（曲構造理解、Hot Cue設定戦略、50曲分析、450行）
+  - music-library.md（Rekordbox整理術、プレイリスト戦略、420行）
+  - digging-records.md（Beatport/Traxsource/SoundCloud、週次ディギング、480行）
+- **特記**: 選曲はDJで最も重要なスキル、全てRekordbox/DDJ-FLX4対応
+- **セッション6**: 8ファイル、約3,986行
+- **累計**: 53ファイル、約19,878行
+- **進捗率**: 26.9%（53/197）
 
 ### 2025-12-03 (セッション5)
 - dj/04-advanced-techniques/ 完了（全9ファイル）
