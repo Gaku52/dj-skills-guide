@@ -1,6 +1,6 @@
 # セッション再開ガイド
 
-**最終更新**: 2025-12-04
+**最終更新**: 2025-12-06
 
 このファイルは、Claude Codeセッションを再開する際に素早く状況を把握するためのクイックリファレンスです。
 
@@ -9,10 +9,10 @@
 ## 📊 現在の進捗（一目でわかる）
 
 ```
-進捗率: 32.5% (64/197ファイル)
-完了行数: 約26,831行
-残りファイル: 133ファイル
-推定残り日数: 22-28日
+進捗率: 36.5% (72/197ファイル)
+完了行数: 約33,639行
+残りファイル: 125ファイル
+推定残り日数: 20-26日
 ```
 
 ---
@@ -37,10 +37,13 @@
 ### フェーズ6: dj/05-track-selection/ (8ファイル)
 - 選曲とセットリスト（ジャンル知識、エネルギーカーブ、フロアリーディング等）
 
-### フェーズ7: dj/06-performance/ (11ファイル) ✨最新
+### フェーズ7: dj/06-performance/ (11ファイル)
 - パフォーマンス実践（ステージプレゼンス、観客との交流、セットアップ、本番準備、レコーディング、ライブ配信、クラブプロトコル、B2B、オープンデッキ、トラブル対応）
 
-**合計: 64ファイル完了**
+### フェーズ8: dj/07-genres/ (8ファイル) ✨最新
+- ジャンル別ガイド（House、Techno、Hip Hop、Dubstep、Drum & Bass、Trance、Open Format）
+
+**合計: 72ファイル完了**
 
 ---
 
@@ -49,26 +52,27 @@
 ### 次に作成するファイル
 
 ```
-docs/dj/07-genres/README.md
+docs/dj/08-practice/README.md
 ```
 
 ### このセクションについて
 
-**フェーズ8: ジャンル別ガイド (8ファイル)**
+**フェーズ9: 練習とスキルアップ (9ファイル)**
 
 1. README.md - セクション概要
-2. house.md - House（Deep House、Tech House、Progressive）
-3. techno.md - Techno（Minimal、Industrial、Acid）
-4. hip-hop.md - Hip Hop（ターンテーブリズム、スクラッチ）
-5. dubstep.md - Dubstep（ハーフタイム、ドロップ）
-6. drum-and-bass.md - Drum & Bass（高速BPM、ブレイクビート）
-7. trance.md - Trance（ビルドアップ、エモーション）
-8. open-format.md - Open Format（マルチジャンルミックス）
+2. practice-routine.md - 練習ルーティン
+3. self-analysis.md - 自己分析
+4. recording-review.md - レコーディングとレビュー
+5. troubleshooting.md - トラブルシューティング
+6. hearing-protection.md - 聴力保護、難聴予防
+7. physical-stamina.md - 長時間プレイの体力管理
+8. mental-health.md - メンタルヘルス、緊張対処
+9. continuous-learning.md - 継続的学習、スランプ脱出
 
 ### このセクションの重要性
 
-各ジャンルの特徴、歴史、代表的アーティスト、DJ技法の違いを詳細に学びます。
-ジャンル別の**深い理解**がプロDJの条件です。
+効果的な練習方法、自己分析、健康管理を学びます。
+**長期的なキャリア構築**にはスキルアップと健康管理が必須です。
 
 ---
 
@@ -194,8 +198,8 @@ dj-skills-guide/
 │       ├── 04-advanced-techniques/ (9) ✅
 │       ├── 05-track-selection/ (8) ✅
 │       ├── 06-performance/ (11) ✅
-│       ├── 07-genres/ (8) ⏳ 次はここ
-│       ├── 08-practice/ (9)
+│       ├── 07-genres/ (8) ✅
+│       ├── 08-practice/ (9) ⏳ 次はここ
 │       ├── 09-career/ (11)
 │       ├── 10-content-creation/ (8)
 │       └── 11-community/ (7)

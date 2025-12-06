@@ -2,7 +2,7 @@
 
 このファイルは、DJ Skills Guide の制作進捗を管理し、次に何を作成すべきかを明確にするためのものです。
 
-**最終更新**: 2025-12-04
+**最終更新**: 2025-12-06
 
 ---
 
@@ -25,6 +25,13 @@
 ---
 
 ## 🎯 次に作成すべきファイル（優先順位順）
+
+**次回セッションの開始地点:**
+```
+docs/dj/08-practice/README.md
+```
+
+---
 
 ### ✅ フェーズ1: DJ基礎知識 【完了】
 
@@ -119,18 +126,18 @@
 
 ---
 
-### フェーズ7: ジャンル別ガイド
+### ✅ フェーズ7: ジャンル別ガイド 【完了】
 
 #### dj/07-genres/ （8ファイル）
 
-1. **README.md** - セクション概要
-2. **house.md** - House（Deep House、Tech House、Progressive）
-3. **techno.md** - Techno（Minimal、Industrial、Acid）
-4. **hip-hop.md** - Hip Hop（ターンテーブリズム、スクラッチ）
-5. **dubstep.md** - Dubstep（ハーフタイム、ドロップ）
-6. **drum-and-bass.md** - Drum & Bass（高速BPM、ブレイクビート）
-7. **trance.md** - Trance（ビルドアップ、エモーション）
-8. **open-format.md** - Open Format（マルチジャンルミックス）
+1. ✅ **README.md** - セクション概要、ジャンル別学習の重要性（400行）
+2. ✅ **house.md** - House完全ガイド、サブジャンル、アーティスト50名、必聴曲100曲（750行）
+3. ✅ **techno.md** - Techno完全ガイド、デトロイト起源、Berghain文化（750行）
+4. ✅ **hip-hop.md** - Hip Hop完全ガイド、ターンテーブリズム、DJ文化の起源（750行）
+5. ✅ **dubstep.md** - Dubstep完全ガイド、ドロップ技法、UK起源（700行）
+6. ✅ **drum-and-bass.md** - D&B完全ガイド、高速ミキシング、ダブルドロップ（750行）
+7. ✅ **trance.md** - Trance完全ガイド、感動的ビルドアップ、PLUR文化（750行）
+8. ✅ **open-format.md** - Open Format完全ガイド、全ジャンル対応、フロアリーディング（650行）
 
 ---
 
@@ -316,74 +323,60 @@
 
 **次に作成するファイル:**
 ```
-docs/dj/07-genres/README.md
+docs/dj/08-practice/README.md
 ```
 
 **内容:**
-- ジャンル別ガイドセクション概要
-- House、Techno、Hip Hop等の特徴
-- ジャンルごとのDJ技法の違い
-- 約250-300行を目標
+- 練習とスキルアップセクション概要
+- 練習ルーティン、自己分析、録音とレビュー
+- 聴力保護、体力管理、メンタルヘルス
+- 約400-450行を目標
 
 **その後:**
 ```
-1. docs/dj/07-genres/house.md
-2. docs/dj/07-genres/techno.md
-3. docs/dj/07-genres/hip-hop.md
-4. docs/dj/07-genres/dubstep.md
-5. docs/dj/07-genres/drum-and-bass.md
-6. docs/dj/07-genres/trance.md
-7. docs/dj/07-genres/open-format.md
-... (全8ファイル予定)
+1. docs/dj/08-practice/practice-routine.md
+2. docs/dj/08-practice/self-analysis.md
+3. docs/dj/08-practice/recording-review.md
+4. docs/dj/08-practice/troubleshooting.md
+5. docs/dj/08-practice/hearing-protection.md
+6. docs/dj/08-practice/physical-stamina.md
+7. docs/dj/08-practice/mental-health.md
+8. docs/dj/08-practice/continuous-learning.md
+... (全9ファイル予定)
 ```
 
 **参考にする完成ファイル:**
-- `docs/dj/05-track-selection/genre-knowledge.md` （ジャンル知識）
-- `docs/dj/06-performance/README.md` （セクション概要）
+- `docs/dj/06-performance/performance-prep.md` （パフォーマンス準備）
+- `docs/dj/07-genres/README.md` （セクション概要）
 
 ### 📌 重要な注意点
 
-1. **一貫性を保つ**: 今日作成した `00-fundamentals/` の品質を基準に
+1. **一貫性を保つ**: 前セクションの品質を基準に
 2. **実践重視**: 「どうやるんだろう？」を解決できる内容
 3. **段階的**: 初心者でも理解できるように丁寧に
-4. **具体例**: 必ず Rekordbox での操作例を含める
-
-### 💡 アイデアメモ
-
-**what-is-djing.md に含めるべき内容:**
-- DJ の語源（Disc Jockey）
-- クラブ DJ の1日（実例）
-- 必要なスキルマップ（技術・選曲・人間力）
-- プロとアマチュアの違い
-- DJ がもたらす価値（観客視点）
-
-**dj-history.md に含めるべき内容:**
-- Grandmaster Flash、Kool Herc
-- Larry Levan、Frankie Knuckles（House）
-- Carl Cox、Richie Hawtin（Techno）
-- 日本のDJ文化（Yellow など）
-- タイムライン図
+4. **具体例**: 必ず DDJ-FLX4/Rekordbox での操作例を含める
+5. **健康重視**: 聴力保護、体力管理は長期キャリアに必須
 
 ---
 
 ## 📊 統計
 
 ### 完了済み
-- ファイル数: 64
-- 総行数: 約26,831行
-- 平均: 約419行/ファイル
+- ファイル数: 72
+- 総行数: 約33,639行
+- 平均: 約467行/ファイル
 
 ### 推定残り（更新後）
-- DJセクション: 43ファイル（71 - 28完了）
+- DJセクション: 35ファイル（71 - 36完了）
 - Productionセクション: 約70ファイル
 - Integration/Resources: 約20ファイル
-- **合計残り**: 約133ファイル
+- **合計残り**: 約125ファイル
 
 ### 全体
-- **総ファイル数**: 約197ファイル（64完了 + 133残り）
-- **推定総行数**: 約82,500行
-- **推定作業日数**: 22-28日（1日4-5ファイル）
-- **現在の進捗率**: 32.5%（64/197）
+- **総ファイル数**: 約197ファイル（72完了 + 125残り）
+- **推定総行数**: 約92,000行
+- **推定作業日数**: 20-26日（1日4-5ファイル）
+- **現在の進捗率**: 36.5%（72/197）
 
 ### 追加項目（プロDJ必須スキル）
 **新規追加ファイル: +26**
@@ -398,6 +391,21 @@ docs/dj/07-genres/README.md
 ---
 
 ## 🔄 更新履歴
+
+### 2025-12-06 (セッション6 - 継続3回目)
+- dj/07-genres/ 完了（全8ファイル）
+  - README.md（ジャンル別ガイド概要、400行）
+  - house.md（House完全ガイド、Deep/Tech/Progressive、アーティスト50名、必聴曲100曲、750行）
+  - techno.md（Techno完全ガイド、デトロイト起源、Minimal/Industrial、Berghain文化、750行）
+  - hip-hop.md（Hip Hop完全ガイド、DJ文化起源1973、ターンテーブリズム、Boom Bap/Trap、750行）
+  - dubstep.md（Dubstep完全ガイド、UK起源、ドロップ技法、Brostep/Riddim、700行）
+  - drum-and-bass.md（D&B完全ガイド、Jungle起源、高速ミキシング、ダブルドロップ、Liquid/Neurofunk、750行）
+  - trance.md（Trance完全ガイド、ドイツ/ゴア起源、感動的ビルドアップ、Progressive/Uplifting/Psy、PLUR文化、750行）
+  - open-format.md（Open Format完全ガイド、全ジャンル対応、フロアリーディング、DJ AM、650行）
+- **特記**: 各ジャンルの歴史・文化・技法を完全網羅、全てDDJ-FLX4対応
+- **セッション6（継続3回目）**: 8ファイル、約6,808行
+- **累計**: 72ファイル、約33,639行
+- **進捗率**: 36.5%（72/197）
 
 ### 2025-12-04 (セッション6 - 継続)
 - dj/06-performance/ 完了（全11ファイル）
