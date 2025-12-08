@@ -1,6 +1,6 @@
 # セッション再開ガイド
 
-**最終更新**: 2025-12-07 (23:30)
+**最終更新**: 2025-12-08 (01:00)
 
 このファイルは、Claude Codeセッションを再開する際に素早く状況を把握するためのクイックリファレンスです。
 
@@ -9,10 +9,10 @@
 ## 📊 現在の進捗（一目でわかる）
 
 ```
-進捗率: 54.3% (107/197ファイル) 🎉DJセクション完全完了！
-完了行数: 約61,354行
-残りファイル: 90ファイル
-推定残り日数: 10-12日
+進捗率: 58.4% (115/197ファイル) 🎉Ableton Live基礎完了！
+完了行数: 約67,525行
+残りファイル: 82ファイル
+推定残り日数: 9-11日
 ```
 
 ---
@@ -52,12 +52,17 @@
 ### フェーズ11: dj/10-content-creation/ (8ファイル)
 - コンテンツ作成（録音ワークフロー、Mixcloud/SoundCloud、ポッドキャスト、OBSライブ配信、動画コンテンツ、音質最適化、コンテンツ戦略）
 
-### フェーズ12: dj/11-community/ (7ファイル) ✨最新
+### フェーズ12: dj/11-community/ (7ファイル)
 - コミュニティとメンタリング（DJコミュニティ参加、メンター探し、コラボレーション、オンラインコミュニティ、後進の指導、シーン構築）
 
 **🎉重要マイルストーン: DJセクション全11セクション、107ファイル完全完了！**
 
-**合計: 107ファイル完了** 🎉54%超達成！
+### フェーズ13: production/01-ableton-basics/ (8ファイル) ✨最新
+- Ableton Live基礎（インターフェイス、Session/Arrangement、プロジェクト設定、Preferences、Audio/MIDI、ファイル管理、ワークフロー）
+
+**🎵 DJから楽曲制作へ**: Ableton Live基礎完全マスター！
+
+**合計: 115ファイル完了** 🎉58%超達成！
 
 ---
 
@@ -66,26 +71,26 @@
 ### 次に作成するファイル
 
 ```
-docs/production/01-ableton-basics/README.md
+docs/production/02-audio-midi/README.md
 ```
 
 ### このセクションについて
 
-**フェーズ13: Ableton Live 基礎 (8ファイル)**
+**フェーズ14: Audio/MIDI基礎 (8ファイル)**
 
 1. README.md - セクション概要
-2. interface-overview.md - インターフェイス概要
-3. session-vs-arrangement.md - Session View vs Arrangement View
-4. project-setup.md - プロジェクト設定
-5. preferences-settings.md - 環境設定
-6. audio-midi-setup.md - Audio/MIDI設定
-7. file-management.md - ファイル管理
-8. workflow-basics.md - ワークフロー基礎
+2. audio-basics.md - Audio基礎（波形、サンプルレート、ビット深度）
+3. midi-basics.md - MIDI基礎（ノート、ベロシティ、CC）
+4. clip-editing.md - Clip編集（切る、貼る、複製、ループ）
+5. warp-modes.md - Warp機能（BPM同期、Warp Mode種類）
+6. quantization.md - Quantize（グリッド、Swing、Groove）
+7. recording-techniques.md - 録音テクニック（Audio/MIDI録音、オーバーダビング）
+8. automation.md - オートメーション（エンベロープ、LFO、MIDI Learn）
 
 ### このセクションの重要性
 
-DJから楽曲制作へ。Ableton Liveは世界中のプロデューサーが使用するDAWです。
-**制作スキルがあればオリジナル曲をDJセットで使える**ようになり、他のDJとの差別化が図れます。
+Ableton Liveの心臓部。AudioとMIDIの基礎を完璧にマスターすることで、
+**思い通りの音楽制作**が可能になります。Warp、Quantize、Automationを使いこなせば制作スピードが10倍に。
 
 ---
 
@@ -218,7 +223,8 @@ dj-skills-guide/
 │   │   └── 11-community/ (7) ✅
 │   └── production/
 │       ├── README.md ✅
-│       └── 01-ableton-basics/ (8) ⏳ 次はここ
+│       ├── 01-ableton-basics/ (8) ✅
+│       └── 02-audio-midi/ (8) ⏳ 次はここ
 ```
 
 ---
@@ -246,13 +252,13 @@ Claude Codeに以下のように依頼してください：
 
 ```
 こんばんは。本日も妥協せず続きの資料の作成をしましょう。
-次は production/01-ableton-basics/ セクションです。
+次は production/02-audio-midi/ セクションです。
 ```
 
 または
 
 ```
-作成しましょう。production/01-ableton-basics/README.md から始めてください。
+作成しましょう。production/02-audio-midi/README.md から始めてください。
 ```
 
 ---
