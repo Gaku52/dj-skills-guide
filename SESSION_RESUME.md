@@ -1,6 +1,6 @@
 # セッション再開ガイド
 
-**最終更新**: 2025-12-08 (01:00)
+**最終更新**: 2025-12-09 (03:30)
 
 このファイルは、Claude Codeセッションを再開する際に素早く状況を把握するためのクイックリファレンスです。
 
@@ -9,10 +9,10 @@
 ## 📊 現在の進捗（一目でわかる）
 
 ```
-進捗率: 58.4% (115/197ファイル) 🎉Ableton Live基礎完了！
-完了行数: 約67,525行
-残りファイル: 82ファイル
-推定残り日数: 9-11日
+進捗率: 62.4% (123/197ファイル) 🎉Audio/MIDI基礎完了！
+完了行数: 約73,005行
+残りファイル: 74ファイル
+推定残り日数: 8-10日
 ```
 
 ---
@@ -57,12 +57,17 @@
 
 **🎉重要マイルストーン: DJセクション全11セクション、107ファイル完全完了！**
 
-### フェーズ13: production/01-ableton-basics/ (8ファイル) ✨最新
+### フェーズ13: production/01-ableton-basics/ (8ファイル)
 - Ableton Live基礎（インターフェイス、Session/Arrangement、プロジェクト設定、Preferences、Audio/MIDI、ファイル管理、ワークフロー）
 
 **🎵 DJから楽曲制作へ**: Ableton Live基礎完全マスター！
 
-**合計: 115ファイル完了** 🎉58%超達成！
+### フェーズ14: production/02-audio-midi/ (8ファイル) ✨最新
+- Audio/MIDI基礎（サンプルレート44.1kHz、ビット深度、MIDI Note/Velocity、Clip編集、Warp、Quantize、録音、Automation）
+
+**🎹 デジタル音楽制作の核心**: Warp機能は他DAWにない最強の武器！
+
+**合計: 123ファイル完了** 🎉62%超達成！
 
 ---
 
@@ -71,26 +76,26 @@
 ### 次に作成するファイル
 
 ```
-docs/production/02-audio-midi/README.md
+docs/production/03-instruments/README.md
 ```
 
 ### このセクションについて
 
-**フェーズ14: Audio/MIDI基礎 (8ファイル)**
+**フェーズ15: 音源とシンセサイザー (8ファイル)**
 
 1. README.md - セクション概要
-2. audio-basics.md - Audio基礎（波形、サンプルレート、ビット深度）
-3. midi-basics.md - MIDI基礎（ノート、ベロシティ、CC）
-4. clip-editing.md - Clip編集（切る、貼る、複製、ループ）
-5. warp-modes.md - Warp機能（BPM同期、Warp Mode種類）
-6. quantization.md - Quantize（グリッド、Swing、Groove）
-7. recording-techniques.md - 録音テクニック（Audio/MIDI録音、オーバーダビング）
-8. automation.md - オートメーション（エンベロープ、LFO、MIDI Learn）
+2. wavetable.md - Wavetable（Abletonの主力シンセ）
+3. operator.md - Operator（FMシンセ）
+4. analog.md - Analog（アナログモデリング）
+5. sampler.md - Sampler（サンプリング）
+6. drum-rack.md - Drum Rack（ドラムプログラミング）
+7. external-instruments.md - 外部音源連携
+8. presets-sound-design.md - プリセット活用とサウンドデザイン
 
 ### このセクションの重要性
 
-Ableton Liveの心臓部。AudioとMIDIの基礎を完璧にマスターすることで、
-**思い通りの音楽制作**が可能になります。Warp、Quantize、Automationを使いこなせば制作スピードが10倍に。
+音源なしでは音は鳴らない。Wavetable、Operator、Drum Rackを使いこなすことで、
+**無限のサウンドパレット**を手に入れます。Techno/Houseの音作りに必須の知識。
 
 ---
 
@@ -224,7 +229,8 @@ dj-skills-guide/
 │   └── production/
 │       ├── README.md ✅
 │       ├── 01-ableton-basics/ (8) ✅
-│       └── 02-audio-midi/ (8) ⏳ 次はここ
+│       ├── 02-audio-midi/ (8) ✅
+│       └── 03-instruments/ (8) ⏳ 次はここ
 ```
 
 ---
