@@ -1,6 +1,6 @@
 # セッション再開ガイド
 
-**最終更新**: 2025-12-09 (03:30)
+**最終更新**: 2025-12-10 (05:00)
 
 このファイルは、Claude Codeセッションを再開する際に素早く状況を把握するためのクイックリファレンスです。
 
@@ -9,10 +9,10 @@
 ## 📊 現在の進捗（一目でわかる）
 
 ```
-進捗率: 62.4% (123/197ファイル) 🎉Audio/MIDI基礎完了！
-完了行数: 約73,005行
-残りファイル: 74ファイル
-推定残り日数: 8-10日
+進捗率: 66.5% (131/197ファイル) 🎉音源とシンセ完了！
+完了行数: 約78,855行
+残りファイル: 66ファイル
+推定残り日数: 7-9日
 ```
 
 ---
@@ -62,12 +62,17 @@
 
 **🎵 DJから楽曲制作へ**: Ableton Live基礎完全マスター！
 
-### フェーズ14: production/02-audio-midi/ (8ファイル) ✨最新
+### フェーズ14: production/02-audio-midi/ (8ファイル)
 - Audio/MIDI基礎（サンプルレート44.1kHz、ビット深度、MIDI Note/Velocity、Clip編集、Warp、Quantize、録音、Automation）
 
 **🎹 デジタル音楽制作の核心**: Warp機能は他DAWにない最強の武器！
 
-**合計: 123ファイル完了** 🎉62%超達成！
+### フェーズ15: production/03-instruments/ (8ファイル) ✨最新
+- 音源とシンセサイザー（Wavetable、Operator、Analog、Sampler、Drum Rack、External Instruments、プリセット活用）
+
+**🎹 無限のサウンドパレット**: Wavetable 70%・Drum Rack 90%使用、プリセット活用推奨！
+
+**合計: 131ファイル完了** 🎉66%超達成！
 
 ---
 
@@ -76,26 +81,26 @@
 ### 次に作成するファイル
 
 ```
-docs/production/03-instruments/README.md
+docs/production/04-effects/README.md
 ```
 
 ### このセクションについて
 
-**フェーズ15: 音源とシンセサイザー (8ファイル)**
+**フェーズ16: エフェクト (8ファイル)**
 
 1. README.md - セクション概要
-2. wavetable.md - Wavetable（Abletonの主力シンセ）
-3. operator.md - Operator（FMシンセ）
-4. analog.md - Analog（アナログモデリング）
-5. sampler.md - Sampler（サンプリング）
-6. drum-rack.md - Drum Rack（ドラムプログラミング）
-7. external-instruments.md - 外部音源連携
-8. presets-sound-design.md - プリセット活用とサウンドデザイン
+2. eq-compression.md - EQ・コンプレッサー（ミックスの基礎）
+3. reverb-delay.md - Reverb・Delay（空間系）
+4. distortion-saturation.md - Distortion・Saturation（歪み系）
+5. modulation-effects.md - Chorus・Flanger・Phaser（モジュレーション）
+6. creative-effects.md - Filter・LFO・特殊効果
+7. mastering-chain.md - マスタリングチェーン
+8. effect-racks.md - Audio Effect Rack・Macro活用
 
 ### このセクションの重要性
 
-音源なしでは音は鳴らない。Wavetable、Operator、Drum Rackを使いこなすことで、
-**無限のサウンドパレット**を手に入れます。Techno/Houseの音作りに必須の知識。
+エフェクトは音色を磨く。EQ・コンプ・Reverbを使いこなすことで、
+**プロの音質**を実現します。ミックス・マスタリングに必須の知識。
 
 ---
 
@@ -230,7 +235,8 @@ dj-skills-guide/
 │       ├── README.md ✅
 │       ├── 01-ableton-basics/ (8) ✅
 │       ├── 02-audio-midi/ (8) ✅
-│       └── 03-instruments/ (8) ⏳ 次はここ
+│       ├── 03-instruments/ (8) ✅
+│       └── 04-effects/ (8) ⏳ 次はここ
 ```
 
 ---
