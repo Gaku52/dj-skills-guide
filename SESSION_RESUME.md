@@ -9,10 +9,10 @@
 ## 📊 現在の進捗（一目でわかる）
 
 ```
-進捗率: 66.5% (131/197ファイル) 🎉音源とシンセ完了！
-完了行数: 約78,855行
-残りファイル: 66ファイル
-推定残り日数: 7-9日
+進捗率: 70.6% (139/197ファイル) 🎉エフェクト完了！
+完了行数: 約87,505行
+残りファイル: 58ファイル
+推定残り日数: 6-8日
 ```
 
 ---
@@ -67,12 +67,17 @@
 
 **🎹 デジタル音楽制作の核心**: Warp機能は他DAWにない最強の武器！
 
-### フェーズ15: production/03-instruments/ (8ファイル) ✨最新
+### フェーズ15: production/03-instruments/ (8ファイル)
 - 音源とシンセサイザー（Wavetable、Operator、Analog、Sampler、Drum Rack、External Instruments、プリセット活用）
 
 **🎹 無限のサウンドパレット**: Wavetable 70%・Drum Rack 90%使用、プリセット活用推奨！
 
-**合計: 131ファイル完了** 🎉66%超達成！
+### フェーズ16: production/04-effects/ (8ファイル) ✨最新
+- エフェクト完全ガイド（EQ・コンプレッサー、Reverb・Delay、Distortion・Saturation、Modulation Effects、Creative Effects、Mastering Chain、Effect Racks）
+
+**🎛️ プロの音質を実現**: EQ・Comp使用頻度90%+、マスタリングで-14 LUFS・-0.3 dBTP達成！
+
+**合計: 139ファイル完了** 🎉70%超達成！
 
 ---
 
@@ -81,26 +86,26 @@
 ### 次に作成するファイル
 
 ```
-docs/production/04-effects/README.md
+docs/production/05-mixing/README.md
 ```
 
 ### このセクションについて
 
-**フェーズ16: エフェクト (8ファイル)**
+**フェーズ17: ミキシング (8ファイル)**
 
 1. README.md - セクション概要
-2. eq-compression.md - EQ・コンプレッサー（ミックスの基礎）
-3. reverb-delay.md - Reverb・Delay（空間系）
-4. distortion-saturation.md - Distortion・Saturation（歪み系）
-5. modulation-effects.md - Chorus・Flanger・Phaser（モジュレーション）
-6. creative-effects.md - Filter・LFO・特殊効果
-7. mastering-chain.md - マスタリングチェーン
-8. effect-racks.md - Audio Effect Rack・Macro活用
+2. gain-staging.md - ゲインステージング（-6 dB ヘッドルーム）
+3. frequency-balance.md - 周波数バランス（EQの実践）
+4. stereo-imaging.md - ステレオイメージング（Width・Panning）
+5. depth-space.md - 奥行きと空間（Reverb・Delayの実践）
+6. automation.md - オートメーション（動的ミックス）
+7. reference-mixing.md - リファレンストラック活用
+8. mixing-workflow.md - ミキシングワークフロー（完全な手順）
 
 ### このセクションの重要性
 
-エフェクトは音色を磨く。EQ・コンプ・Reverbを使いこなすことで、
-**プロの音質**を実現します。ミックス・マスタリングに必須の知識。
+ミキシングは楽曲制作の40%を占める最重要工程。個別トラックを
+**プロのミックス**に仕上げる技術を完全マスターします。
 
 ---
 
@@ -236,7 +241,8 @@ dj-skills-guide/
 │       ├── 01-ableton-basics/ (8) ✅
 │       ├── 02-audio-midi/ (8) ✅
 │       ├── 03-instruments/ (8) ✅
-│       └── 04-effects/ (8) ⏳ 次はここ
+│       ├── 04-effects/ (8) ✅
+│       └── 05-mixing/ (8) ⏳ 次はここ
 ```
 
 ---
