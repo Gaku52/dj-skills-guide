@@ -9,10 +9,10 @@
 ## 📊 現在の進捗（一目でわかる）
 
 ```
-進捗率: 70.6% (139/197ファイル) 🎉エフェクト完了！
-完了行数: 約87,505行
-残りファイル: 58ファイル
-推定残り日数: 6-8日
+進捗率: 74.6% (147/197ファイル) 🎉ミキシング完了！
+完了行数: 約94,357行
+残りファイル: 50ファイル
+推定残り日数: 5-7日
 ```
 
 ---
@@ -72,12 +72,17 @@
 
 **🎹 無限のサウンドパレット**: Wavetable 70%・Drum Rack 90%使用、プリセット活用推奨！
 
-### フェーズ16: production/04-effects/ (8ファイル) ✨最新
+### フェーズ16: production/04-effects/ (8ファイル)
 - エフェクト完全ガイド（EQ・コンプレッサー、Reverb・Delay、Distortion・Saturation、Modulation Effects、Creative Effects、Mastering Chain、Effect Racks）
 
 **🎛️ プロの音質を実現**: EQ・Comp使用頻度90%+、マスタリングで-14 LUFS・-0.3 dBTP達成！
 
-**合計: 139ファイル完了** 🎉70%超達成！
+### フェーズ17: production/05-mixing/ (8ファイル) ✨最新
+- ミキシング完全ガイド（7つの柱、Gain Staging、Frequency Balance、Stereo Imaging、Depth & Space、Automation、Reference Mixing、完全Workflow）
+
+**🎚️ プロのミックス実現**: 7つの柱マスター、120 Hz以下Mono・Low-Mid処理・Reference比較が必須！
+
+**合計: 147ファイル完了** 🎉75%近く達成！
 
 ---
 
@@ -86,26 +91,26 @@
 ### 次に作成するファイル
 
 ```
-docs/production/05-mixing/README.md
+docs/production/06-arrangement/README.md
 ```
 
 ### このセクションについて
 
-**フェーズ17: ミキシング (8ファイル)**
+**フェーズ18: アレンジメント (8ファイル)**
 
 1. README.md - セクション概要
-2. gain-staging.md - ゲインステージング（-6 dB ヘッドルーム）
-3. frequency-balance.md - 周波数バランス（EQの実践）
-4. stereo-imaging.md - ステレオイメージング（Width・Panning）
-5. depth-space.md - 奥行きと空間（Reverb・Delayの実践）
-6. automation.md - オートメーション（動的ミックス）
-7. reference-mixing.md - リファレンストラック活用
-8. mixing-workflow.md - ミキシングワークフロー（完全な手順）
+2. song-structure.md - 曲構造（Intro・Verse・Buildup・Drop・Outro）
+3. energy-curve.md - エネルギーカーブ（10段階管理）
+4. transitions.md - トランジション技法（4小節ルール）
+5. arrangement-techniques.md - アレンジメント技法（加算・減算）
+6. buildups-drops.md - ビルドアップとドロップ（8小節定番）
+7. intro-outro.md - イントロとアウトロ（DJ対応）
+8. arrangement-workflow.md - アレンジメントワークフロー（完全な手順）
 
 ### このセクションの重要性
 
-ミキシングは楽曲制作の40%を占める最重要工程。個別トラックを
-**プロのミックス**に仕上げる技術を完全マスターします。
+アレンジメントは楽曲全体の構成を決める最重要工程。各セクションの
+配置・展開・エネルギー管理を完全マスターします。
 
 ---
 
@@ -242,7 +247,8 @@ dj-skills-guide/
 │       ├── 02-audio-midi/ (8) ✅
 │       ├── 03-instruments/ (8) ✅
 │       ├── 04-effects/ (8) ✅
-│       └── 05-mixing/ (8) ⏳ 次はここ
+│       ├── 05-mixing/ (8) ✅
+│       └── 06-arrangement/ (8) ⏳ 次はここ
 ```
 
 ---
@@ -270,13 +276,13 @@ Claude Codeに以下のように依頼してください：
 
 ```
 こんばんは。本日も妥協せず続きの資料の作成をしましょう。
-次は production/02-audio-midi/ セクションです。
+次は production/06-arrangement/ セクションです。
 ```
 
 または
 
 ```
-作成しましょう。production/02-audio-midi/README.md から始めてください。
+作成しましょう。production/06-arrangement/README.md から始めてください。
 ```
 
 ---
