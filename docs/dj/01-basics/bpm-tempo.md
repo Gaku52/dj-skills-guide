@@ -100,7 +100,7 @@
 - 長時間聴いても疲れにくい
 
 **代表ジャンル:**
-- House: 120-128 BPM
+- House: 120-130 BPM
 - Disco: 110-125 BPM
 - Tech House: 125-130 BPM
 - Deep House: 118-125 BPM
@@ -118,7 +118,7 @@
 - 長時間は疲れる可能性
 
 **代表ジャンル:**
-- Techno: 125-135 BPM
+- Techno: 125-150 BPM（標準125-135、Industrial 135-150）
 - Trance: 130-145 BPM
 - Dubstep: 140 BPM（ハーフタイム = 70 BPM感覚）
 - Hard Style: 150 BPM
